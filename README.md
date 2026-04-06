@@ -1,6 +1,6 @@
 # Financial
 
-# 1. firstofall create .env file in the backend folder and paste
+# 1. firstOfAll create .env file in the backend folder and paste
 
 LOCAL_DB=mongodb://127.0.0.1:27017/financeDashboard
 SECRET_KEY=...????11@@L:::xmxkl
@@ -25,7 +25,7 @@ ii) for viewer -> email => user1@gmail.com
 viewer can only watch the dashboard
 
 iii) for analyst -> email => user2@gmail.com  
-                    password => 123456
+                     password => 123456
 
 analyst can watch the dashboard as well as record
 
@@ -34,10 +34,13 @@ analyst can watch the dashboard as well as record
 # 5. The project is already connected to a live MongoDB Atlas database. You can directly run the backend without changing the MONGO_URL.
 
 # 6. Features
-JWT Authentication
+JWT Authentication 
 Role-Based Access Control (Admin, Analyst, Viewer)
 Dashboard Analytics
 Recent Activities (last 2 days)
 Category-wise and Monthly Trends
+
+# 🙌 Author
+Dhruv
 
 # Thank you 
