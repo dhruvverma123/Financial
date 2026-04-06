@@ -2,8 +2,10 @@
 
 # 1. firstOfAll create .env file in the backend folder and paste
 
-LOCAL_DB=mongodb://127.0.0.1:27017/financeDashboard
+LOCAL_DB=mongodb://127.0.0.1:27017/financeDashboard     
+
 SECRET_KEY=...????11@@L:::xmxkl
+
 MONGO_URL=mongodb+srv://dhruvverma2662_db_user:0hvFvIhn0HT3i27W@cluster0.2qselru.mongodb.net/Financial?appName=Cluster0
 
 # 2. run npm command in both folders
